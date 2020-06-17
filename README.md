@@ -17,7 +17,7 @@ These are the following requirements for this program:
 
 To use this program and analyze your own files, open the doc_summary.py file and change lines 8, 9 and 10 to your own preferences.
 
-<img src='images/lines_change.PNG' width=300>
+<img src='images/lines_change.PNG'>
 
 Acknowledgments
 -
