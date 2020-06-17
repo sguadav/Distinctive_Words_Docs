@@ -25,5 +25,5 @@ Running this program is very simple, if you want to use the txt files in the lec
 
 Acknowledgments
 -
-- Purdue University
+- College of Electrical and Computer Engineering, Purdue University
 - Prof. Milind Kulkarni
