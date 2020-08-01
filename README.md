@@ -1,4 +1,4 @@
-# Finding Most Unique Words Between Files
+# Important Words in Group of Texts
 
 This program uses the Term Frequency-Inverse Document Frequency (TF-IDF) numerical statistic analysis to find the 5 most distinctive words between a list of txt files. This can be used to see how two files differenciate each other and have a summary in 5 words about it. This project was done through my Python for Data Science Course at Purdue University.
 
